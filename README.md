@@ -91,7 +91,8 @@ print("Root Mean Square Error =",rmse)
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/afd484ee-875c-4059-b41b-7d40e560e959)
 
 ## Error Calculation
-![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/fb3c225e-f55a-4698-bfe1-d0608c09cf94)
+<img src="https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/fb3c225e-f55a-4698-bfe1-d0608c09cf94" alt="Your Image" width="300">
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
