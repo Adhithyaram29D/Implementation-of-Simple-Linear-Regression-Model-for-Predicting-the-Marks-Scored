@@ -90,14 +90,13 @@ print("Root Mean Square Error =",rmse)
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/0f4d3c24-c60b-4bf8-8dd3-a198a20610fc)
 
 ## 6.Training Set
-![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/ced09711-88b1-4eeb-acb1-5075c5fcf071)
+<img src="https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/ced09711-88b1-4eeb-acb1-5075c5fcf071" alt="Your Image" width="300">
 
 ## 7.Test Set
-![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/afd484ee-875c-4059-b41b-7d40e560e959)
+<img src="https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/afd484ee-875c-4059-b41b-7d40e560e959" alt="Your Image" width="300">
 
 ## Error Calculation
 <img src="https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/fb3c225e-f55a-4698-bfe1-d0608c09cf94" alt="Your Image" width="300">
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
