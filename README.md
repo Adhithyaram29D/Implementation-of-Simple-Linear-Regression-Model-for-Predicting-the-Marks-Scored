@@ -81,7 +81,9 @@ print("Root Mean Square Error =",rmse)
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/ef24964a-9964-4929-9e7d-5a897e77ebcb)
 
 ## 3.X and Y values
-![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/22e09399-26b3-43ae-a284-d7457dcb3346)
+<img src="https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/22e09399-26b3-43ae-a284-d7457dcb3346" alt="Your Image" width="250" height="250">
+
+![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/595b0790-7016-4288-99c0-78ad04b702e5)
 
 ## 4.Values of Y Prediction
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393540/28718469-5a74-4b0c-a7e7-3e05511bf120)
